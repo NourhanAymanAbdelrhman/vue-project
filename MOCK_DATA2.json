@@ -1,0 +1,24 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "review": "good product and good quality,nourhan"
+    },
+    {
+      "id": 2,
+      "review": "good product and good quality,omnia"
+    },
+    {
+      "id": 3,
+      "review": "good product and good quality,hassan "
+    },
+    {
+      "id": 4,
+      "review": "good product and good quality,Ahmed"
+    },
+    {
+      "id": 5,
+      "review": "good product and good quality,sondos"
+    }
+  ]
+}
